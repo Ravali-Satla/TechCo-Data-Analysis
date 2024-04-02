@@ -1,0 +1,51 @@
+product_id,product_name,category,price
+1,Product 1,Sports,38.87
+2,Product 2,Clothing,398.31
+3,Product 3,Electronics,134.09
+4,Product 4,Clothing,35.0
+5,Product 5,Clothing,310.51
+6,Product 6,Books,120.55
+7,Product 7,Electronics,123.96
+8,Product 8,Clothing,151.15
+9,Product 9,Books,276.82
+10,Product 10,Sports,139.3
+11,Product 11,Electronics,252.97
+12,Product 12,Home Appliances,23.48
+13,Product 13,Sports,66.68
+14,Product 14,Electronics,402.78
+15,Product 15,Sports,225.08
+16,Product 16,Home Appliances,59.88
+17,Product 17,Clothing,144.44
+18,Product 18,Sports,131.05
+19,Product 19,Home Appliances,84.34
+20,Product 20,Books,170.51
+21,Product 21,Home Appliances,129.43
+22,Product 22,Books,44.66
+23,Product 23,Clothing,109.9
+24,Product 24,Home Appliances,83.68
+25,Product 25,Sports,329.69
+26,Product 26,Books,145.47
+27,Product 27,Books,394.08
+28,Product 28,Books,479.71
+29,Product 29,Electronics,201.09
+30,Product 30,Electronics,182.8
+31,Product 31,Clothing,73.84
+32,Product 32,Sports,289.52
+33,Product 33,Electronics,364.02
+34,Product 34,Books,325.3
+35,Product 35,Clothing,499.23
+36,Product 36,Books,177.38
+37,Product 37,Home Appliances,474.17
+38,Product 38,Electronics,295.02
+39,Product 39,Sports,78.94
+40,Product 40,Books,231.56
+41,Product 41,Home Appliances,480.1
+42,Product 42,Home Appliances,79.68
+43,Product 43,Home Appliances,349.34
+44,Product 44,Sports,158.91
+45,Product 45,Books,111.0
+46,Product 46,Sports,218.91
+47,Product 47,Books,464.33
+48,Product 48,Books,388.09
+49,Product 49,Books,358.92
+50,Product 50,Home Appliances,358.26
